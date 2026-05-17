@@ -40,7 +40,7 @@ I am especially interested in applied AI that can survive contact with real-worl
 | Web / Side Projects | TypeScript, JavaScript, full-stack applications, UI-driven tools |
 | Infrastructure | Docker, Git, reproducible environments, local development workflows |
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" alt="Java" />
@@ -60,8 +60,8 @@ I am especially interested in applied AI that can survive contact with real-worl
 ## GitHub Snapshot
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Restodecoca&show_icons=true&hide_title=true&hide_rank=false&theme=github_dark&include_all_commits=true" alt="Gabriel's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Restodecoca&layout=compact&theme=github_dark&hide_title=true" alt="Top languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Restodecoca&theme=github_dark" alt="Gabriel's GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Restodecoca&theme=github_dark" alt="Top languages" />
 </p>
 
 ## Contact
