@@ -57,12 +57,17 @@ I am especially interested in applied AI that can survive contact with real-worl
 - Dashboards and data workflows for analysis-heavy contexts.
 - TypeScript and Java side projects focused on learning, shipping, and improving engineering range.
 
-## GitHub Snapshot
+## Work Snapshot
 
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Restodecoca&theme=github_dark" alt="Gabriel's GitHub stats" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Restodecoca&theme=github_dark" alt="Top languages" />
+  <img src="https://img.shields.io/badge/Main%20lane-Python%20%7C%20AI%2FML%20%7C%20LLMs-3776AB?style=flat&logo=python&logoColor=white" alt="Main lane: Python, AI/ML, LLMs" />
+  <img src="https://img.shields.io/badge/Research-AKCIT--CEIA%20%2F%20UFG-0D1117?style=flat" alt="Research at AKCIT-CEIA / UFG" />
+  <img src="https://img.shields.io/badge/Engineering-TypeScript%20%7C%20Java%20%7C%20SQL-3178C6?style=flat&logo=typescript&logoColor=white" alt="Engineering: TypeScript, Java, SQL" />
 </p>
+
+- Main lane: **Python**, **AI/ML**, **LLMs/RAG**, datasets, evaluation, and retrieval workflows.
+- Engineering range: **TypeScript**, **Java**, **SQL**, dashboards, APIs, and Dockerized environments.
+- Public GitHub language charts can underrepresent my day-to-day work because much of my AI/ML and institutional work lives in private repositories, notebooks, research artifacts, and local experiments.
 
 ## Contact
 
